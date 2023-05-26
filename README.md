@@ -1,3 +1,4 @@
-# View it in 25% Size
 ## Valentine-s-Day-23
-### A HTML, CSS Project made in and for the theme of Valentine's Day.
+### • View it in 25% Size
+### • Demonstrated a webpage created using HTML and CSS specifically designed for the Valentine's Day theme.
+### • Achieved the runner-up position in the competition conducted by CodeDex organization in February 2023.
